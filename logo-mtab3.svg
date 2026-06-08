@@ -1,0 +1,11 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">شعار متابع</title>
+  <rect width="240" height="240" fill="#B9D2E1"/>
+  <path d="M57 96C57 64.52 82.52 39 114 39V96H57Z" fill="#00324B"/>
+  <path d="M123 39H171C202.48 39 228 64.52 228 96H123V39Z" fill="#00324B"/>
+  <path d="M57 106H114V154H57V106Z" fill="#00324B"/>
+  <path d="M181 106H228V154H181V106Z" fill="#00324B"/>
+  <path d="M57 164H107L57 214V164Z" fill="#00324B"/>
+  <path d="M123 164H171V221L123 164Z" fill="#00324B"/>
+  <path d="M181 164H228C228 195.48 202.48 221 171 221V164H181Z" fill="#00324B"/>
+</svg>
